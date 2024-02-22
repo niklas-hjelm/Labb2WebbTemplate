@@ -61,7 +61,7 @@ All databaskommunikation skall också ske med hjälp av Repository Pattern.
 
 ## Redovisning
 
-Använd repot genom uppgiften i GitHub-Classrom [HÄR](https://classroom.github.com/a/2IMRFnr5).
+Använd repot genom uppgiften i GitHub-Classrom.
 Skapa en branch som heter `development` att arbeta i. När arbetet är färdigt pusha till `main` och lämna in på ITHS-Distans.
 
 ## Bedömning
